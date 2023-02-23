@@ -78,7 +78,7 @@ With these ideas in mind, the following coding practices have been used
 ```
 1. Descriptive Variable Names
 
-All the variable names used in the code are descriptive and self-expalanotry.
+All the variable names used in the code are descriptive and self-explanatory.
 
 2. Descriptive Function Names
 
