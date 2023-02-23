@@ -57,7 +57,7 @@ Source : https://www.javatpoint.com/binary-search-tree-vs-avl-tree
 
 ### 3. Reinforcement Learning
 
-Although this is not related to imporving the performance on a Data Structure or Compiler level, I found this to be an interesting read nonetheless and thought it would be worthwile to mention how RL and Deep RL can be used to model multi-agent simulation behavior in Limit Order Book Transactions.
+Although this is not related to improving the performance on a Data Structure or Compiler level, I found this to be an interesting read nonetheless and thought it would be worthwile to mention how RL and Deep RL can be used to model multi-agent simulation behavior in Limit Order Book Transactions.
 
 Source : https://arxiv.org/pdf/2006.05574.pdf \
 Source : https://stanford.edu/~ashlearn/RLForFinanceBook/chapter9.pdf
