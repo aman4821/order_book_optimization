@@ -82,12 +82,13 @@ All the variable names used in the code are descriptive and self-expalanotry.
 
 2. Descriptive Function Names
 
-All the function names used in the code are descriptive and self-explanatory. Each function name exaclty specifies what the function intends to do
-along with the function return type.
+All the function names used in the code are descriptive and self-explanatory. Each function name exaclty specifies what 
+the function intends to do along with the function return type.
 
 3. Avoiding Magic Numbers
 
-I've used const variables to avoid the use of magic numbers in the code. This ensures better readibility and efficient refactoring.
+I've used const variables to avoid the use of magic numbers in the code. This ensures better readibility and efficient 
+refactoring.
 
 ```
 
