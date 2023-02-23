@@ -18,7 +18,7 @@ limit_avl_bid.h
 test_limit_avl_bid.cpp
 ```
 
-We model the order book as an AVL Tree where each node of the tree represents a limit price and is modelled as a priority queue of orders for that particular limit price. We use two separate AVL trees for the ask and the bid side (The trees for ask and bid side would be mirror image of one another in a sense since the prices increase in different orders in the ask and bid side).
+We model the order book as an AVL Tree where each node of the tree represents a limit price and is modelled as a priority queue of orders for that particular limit price. We use two separate AVL trees for the ask and the bid side (The trees for ask and bid side would be mirror image of one another in a sense since the prices increase in opposite orders in the ask and bid side).
 
 Each order is a C++ structure that has the following attributes: 
 
