@@ -62,6 +62,35 @@ Although this is not related to improving the performance on a Data Structure or
 Source : https://arxiv.org/pdf/2006.05574.pdf \
 Source : https://stanford.edu/~ashlearn/RLForFinanceBook/chapter9.pdf
 
+## *** Coding Style - Design Practices ***
+
+While coding up this implementation, I kept in mind the following features for an ideal coding style
+
+```
+1. Readability
+
+2. Refactorability
+
+3. Ease of modifying the code to suit future needs
+```
+With these ideas in mind, the following coding practices have been used 
+
+```
+1. Descriptive Variable Names
+
+All the variable names used in the code are descriptive and self-expalanotry.
+
+2. Descriptive Function Names
+
+All the function names used in the code are descriptive and self-explanatory. Each function name exaclty specifies what the function intends to do
+along with the function return type.
+
+3. Avoiding Magic Numbers
+
+I've used const variables to avoid the use of magic numbers in the code. This ensures better readibility and efficient refactoring.
+
+```
+
 
 
 
