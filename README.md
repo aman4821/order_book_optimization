@@ -83,7 +83,7 @@ All the variable names used in the code are descriptive and self-expalanotry.
 2. Descriptive Function Names
 
 All the function names used in the code are descriptive and self-explanatory. 
-Each function name exaclty specifies what  the function intends to do along with the function return type.
+Each function name exaclty specifies what the function intends to do along with the function return type.
 
 3. Avoiding Magic Numbers
 
