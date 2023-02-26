@@ -5,7 +5,7 @@ The key idea in this implementation is to use a combination of AVL Tree along wi
 I would recommend going through the files in the following sequence to understand the underlying code
 
 ```
-order.h 
+order.h -> Implements the order structure module
 
 test_order.cpp 
 
@@ -22,15 +22,15 @@ We model the order book as an AVL Tree where each node of the tree represents a 
 
 Each order is a C++ structure that has the following attributes: 
 
-    1. orderID 
+    1. orderID -> The ID associated with each ask/bid order
     
-    2. orderLimitPrice 
+    2. orderLimitPrice -> The limit price at which the order exists
     
-    3. orderShares 
+    3. orderShares -> Number of shares for a particular order
     
-    4. orderEntryTime 
+    4. orderEntryTime -> Time at which the order was triggered
     
-    5. isOrderAsk 
+    5. isOrderAsk -> Whether the order is from ask or bid side
     
     
 The AVL Tree in turn consists of each node representing a limit price and consisting of a priority queue of this order structure.
