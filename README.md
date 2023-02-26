@@ -1,4 +1,4 @@
-# This repository implements an optimized version of an HFT Limit Order Book (LOB)
+# This repository implements an optimized version of an HFT Limit Order Book
 
 The key idea in this implementation is to use a combination of AVL Tree along with a Priority Queue (for FIFO functionality) as opposed to using a double-ended linked list in the original implementation for the limit order book.
 
