@@ -5,7 +5,7 @@ The key idea in this implementation is to use a combination of AVL Tree along wi
 I would recommend going through the files in the following sequence to understand the underlying code
 
 ```
-order.h -> Implements the order structure module
+order.h 
 
 test_order.cpp 
 
