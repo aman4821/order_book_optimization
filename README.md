@@ -88,7 +88,7 @@ Each function name exactly specifies what the function intends to do along with 
 3. Avoiding Magic Numbers
 
 I've used const variables to avoid the use of magic numbers in the code. This ensures better readability and efficient 
-refactoring.
+refactoring along with ease of error handling.
 
 ```
 
